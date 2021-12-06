@@ -1,5 +1,5 @@
 # module5
-i would like to work on a project with coding to eventually help inest in the stock market. 
+i would like to work on a project with coding to eventually help invest in the stock market. 
 Copyright <2021> <Winston Steele>
 
 Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
